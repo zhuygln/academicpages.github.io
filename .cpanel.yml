@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/a0wmoeqjpq7o/public_html/
+    - export DEPLOYPATH=/home/a0wmoeqjpq7o/repositories/academicpageshub.io.git/
     - /bin/cp -R images $DEPLOYPATH
